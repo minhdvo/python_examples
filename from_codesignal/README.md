@@ -8,3 +8,6 @@
 # Examples from Leetcode
 - preorderTraversal
 - find Median Sorted Arrays
+- Number of Submatrices That Sum to Target
+- Last Stone Weight
+- Longest String Chain
